@@ -50,8 +50,9 @@ This starts a local server to preview the built project.
 ├── src/
 │   ├── main.ts        // Entry point
 │   └── style.css      // Global styles
-├── index.html        // Main HTML file
-└── package.json      // Project config
+├── tests/             // Main tests folder
+├── index.html         // Main HTML file
+└── package.json       // Project config
 ```
 
 ## 🛠️ Requirements
